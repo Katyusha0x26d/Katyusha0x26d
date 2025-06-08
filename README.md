@@ -3,9 +3,9 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Katyusha0x26d&theme=dark&show_icons=true&locale=en" alt="Katyusha0x26d">
 
-- 🌱 I'm currently focusing on **Fullstack and Linux Kernel**
+- 🌱 Currently focusing on **Fullstack and Linux Kernel**
 
-- 📝 I regularly write articles on **[My Mindpalace](https://katyusha.me/)**
+- 📝 Regularly write articles on **[My Mindpalace](https://katyusha.me/)**
 
 - 👨‍💻 My projects are available at **[Projects Gallery](https://katyusha.me/projects/)**
 
