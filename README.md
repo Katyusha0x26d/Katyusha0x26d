@@ -5,7 +5,7 @@
 
 - 🌱 I'm currently focusing on **Fullstack and Linux Kernel**
 
-- 📝 I regularly write articles on **[Katyusha Mindpalace](https://katyusha.me/)**
+- 📝 I regularly write articles on **[My Mindpalace](https://katyusha.me/)**
 
 - 👨‍💻 My projects are available at **[Projects Gallery](https://katyusha.me/projects/)**
 
