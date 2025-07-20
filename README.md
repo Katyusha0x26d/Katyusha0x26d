@@ -21,4 +21,4 @@
 ![Contributions](https://github.com/Katyusha0x26d/Katyusha0x26d/raw/output/github-contribution-grid-snake-dark.svg)
 
 ##
-<p align="center"><img src="https://counter.katyusha.me/count/svg/github-Katyusha0x26d/for-the-badge_dark.svg" ></p>
+<p align="center"><img src="https://counter.katyusha.me/count/svg/Katyusha0x26d/for-the-badge_dark.svg?" ></p>
